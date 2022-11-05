@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TwermzArt</title>
+    <!--CUSTOM CSS-->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<input type="radio" name="Photos" id="check1" checked>
+<input type="radio" name="Photos" id="check2">
+<input type="radio" name="Photos" id="check3">
+<input type="radio" name="Photos" id="check4">
+<input type="radio" name="Photos" id="check5">
+<input type="radio" name="Photos" id="check6">
+
+<div class="container">
+<div class="top-content">
+<label for="check1">TwermzArt Gallery</label>
+<label for="check2">2022</label>
+<label for="check3">2021</label>
+<label for="check4">2020</label>
+<label for="check5">2019</label>
+<label for="check6">2017</label>
+</div>
+
+<div class="background-img">
+    <h2>TwermzArt</h2>
+</div>
+
+<div class="drawing-gallery">
+    <div class="pic twentytwo gallery-item w-3">
+        <img src="images/IMG_20221024_222437.jpg">
+    </div>
+<div class="pic twentytwo">
+    <img src="images/IMG_20221012_215421.jpg">
+</div>
+<div class="pic twentytwo">
+    <img src="images/IMG_20221002_225159.jpg">
+</div>
+<div class="pic twentytwo">
+    <img src="images/IMG_20221002_225109.jpg">
+</div>  
+<div class="pic twentytwo gallery-item w-3">
+    <img src="images/IMG_20221020_031229.jpg">
+</div>
+<div class="pic twentytwo gallery-item w-3">
+    <img src="images/IMG_20221020_031128.jpg">      
+</div>  
+<div class="pic twentytwo gallery-item w-3">
+    <img src="images/IMG_20221020_030920 (1).jpg">      
+</div>  
+<div class="pic twentyone gallery-item w-3">
+    <img src="images/IMG_20221020_031408.jpg">
+</div>
+<div class="pic twentytwenty gallery-item w-3">
+    <img src="images/IMG_20221020_031451.jpg">
+</div>   
+<div class="pic twentytwenty">
+    <img src="images/IMG_20221020_031539.jpg">
+</div>     
+<div class="pic twentytwenty">
+    <img src="images/IMG_20211125_003320.jpg">
+</div>  
+<div class="pic twentytwenty w-3">
+    <img src="images/IMG_20221102_225029.jpg">
+</div>     
+<div class="pic twentytwenty">
+    <img src="images/IMG_20221102_225403.jpg">
+</div>   
+<div class="pic twentytwenty w-3">
+    <img src="images/IMG_20221102_225454.jpg">
+</div>       
+<div class="pic twentynineteen">
+    <img src="images/IMG_20221020_032005.jpg">
+</div>     
+<div class="pic twentynineteen">
+    <img src="images/IMG_20221020_031848.jpg">
+</div>
+<div class="pic twentyseventeen">
+    <img src="images/IMG_20221020_032108.jpg">
+</div>  
+<div class="pic twentyseventeen">
+    <img src="images/IMG_20221020_032136.jpg">
+</div> 
+<div class="pic twentyseventeen">
+    <img src="images/IMG_20221020_032159.jpg">
+</div>    
+<div class="pic twentyseventeen">
+    <img src="images/IMG_20221020_032228.jpg">
+</div>            
+<div class="pic Doodlies">
+    <img src="images/IMG_20221010_001116.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20221010_001112.jpg">
+</div>              
+<div class="pic Doodlies">
+    <img src="images/IMG_20220926_003123.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20220409_015529.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20220409_015452.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20220311_175333.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20220310_163157.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20220310_150428.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20220309_001359.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20220307_233919.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20220307_173856.jpg">
+</div>       
+<div class="pic Doodlies">
+    <img src="images/IMG_20220302_143003.jpg">
+</div>      
+<div class="pic Doodlies">
+    <img src="images/IMG_20211029_135709.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20211029_105505.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20211028_115402.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20210509_213630.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20201205_200924.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20201123_235459.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20201114_224331.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20200324_142120.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20200308_000207.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20200217_111516_876.jpg">
+</div>
+<div class="pic Doodlies">
+    <img src="images/IMG_20200127_213522.jpg">
+</div>        
+<div class="pic Doodlies">
+    <img src="images/IMG_20200125_143226.jpg">
+</div>
+</div>
+
+<div class="popup-image">
+    <span>&times;</span>
+    <img src="images/IMG_20221012_215421.jpg">
+</div>
+
+<script>
+document.querySelectorAll('.drawing-gallery img').forEach(image =>{
+    image.onclick = () =>{
+        document.querySelector('.popup-image').style.display = 'block';
+        document.querySelector('.popup-image img').src = image.getAttribute('src');
+    }
+});
+document.querySelector('.popup-image span').onclick = () =>{
+    document.querySelector('.popup-image').style.display = 'none';
+}
+</script>
+
+</div>
+
+</body>
+</html>
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif; 
+}
+input{
+    display: none;
+}
+.container{
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+.top-content{
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    margin: 0 0 0 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    box-shadow: 3px 3px 5px lightgray;
+}
+label{
+    display: inline-block;
+    height: 100%;
+    margin: 0 20px 0 50px;
+    line-height: 60px;
+    font-size: 60px;
+    font-size: 18px;
+    color: black;
+    cursor: pointer;
+}
+label:hover{
+    color: darkorange
+}
+.background-img{
+    background-image: url("images/IMG_20221104_204525.jpg");
+    padding-top: 20px;
+    text-align: right;
+    padding-bottom: 490px;
+    padding-right: 20px;
+    color: white;
+    font-size: 40px;
+    font-family: 100;
+    margin: 0 0 50px 0;
+    background-attachment: fixed;
+}
+.drawing-gallery{
+    width: 90%;
+    margin: auto auto 200px auto;
+    box-sizing: border-box;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    object-fit: cover;
+    position: relative;
+}
+.w-3{
+    grid-column: span 1.5;
+    position: relative;
+}
+.pic{
+    position: relative;
+    width: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 13px;
+    align-self: center;
+    transition: .4s;
+}
+.pic img{
+    width: 100%;
+    border-radius: 10px;
+    position: relative;
+    object-fit: cover;
+}
+.pic:focus img,
+.pic:hover img{
+    transform: scale(1.05);
+    z-index: 100;
+    transition: .3s;
+    opacity: 1;
+}
+.container .popup-image{
+    position: fixed;
+    top: 0; left: 0;
+    background: rgba(0,0,0,.9);
+    height: 100%;
+    width: 100%;
+    z-index: 100;
+    display: none
+}
+
+.container .popup-image span{
+    position: absolute;
+    top: 0; right: 10px;
+    font-size: 60px;
+    font-weight: bolder;
+    color: #fff;
+    cursor: pointer;
+    z-index: 101;
+}
+.container .popup-image img{
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    height: 95%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+@media(max-height:768px){
+    .container .popup-image img{
+        width: 95%;
+}
+}
+#check1:checked ~ .container .drawing-gallery .pic{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check2:checked ~ .container .drawing-gallery .twentytwo{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check2:checked ~ .container .drawing-gallery .twentyone,
+#check2:checked ~ .container .drawing-gallery .twentytwenty,
+#check2:checked ~ .container .drawing-gallery .twentynineteen,
+#check2:checked ~ .container .drawing-gallery .twentyseventeen,
+#check2:checked ~ .container .drawing-gallery .Doodlies{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: 0s;
+}
+#check3:checked ~ .container .drawing-gallery .twentyone{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check3:checked ~ .container .drawing-gallery .twentytwo,
+#check3:checked ~ .container .drawing-gallery .twentytwenty,
+#check3:checked ~ .container .drawing-gallery .twentynineteen,
+#check3:checked ~ .container .drawing-gallery .twentyseventeen,
+#check3:checked ~ .container .drawing-gallery .Doodlies{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: 0s;
+}
+#check4:checked ~ .container .drawing-gallery .twentytwenty{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check4:checked ~ .container .drawing-gallery .twentytwo,
+#check4:checked ~ .container .drawing-gallery .twentyone,
+#check4:checked ~ .container .drawing-gallery .twentynineteen,
+#check4:checked ~ .container .drawing-gallery .twentyseventeen,
+#check4:checked ~ .container .drawing-gallery .Doodlies{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: 0s;
+}
+#check5:checked ~ .container .drawing-gallery .twentynineteen{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check5:checked ~ .container .drawing-gallery .twentytwo,
+#check5:checked ~ .container .drawing-gallery .twentyone,
+#check5:checked ~ .container .drawing-gallery .twentytwenty,
+#check5:checked ~ .container .drawing-gallery .twentyseventeen,
+#check5:checked ~ .container .drawing-gallery .Doodlies{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: 0s;
+}
+#check6:checked ~ .container .drawing-gallery .twentyseventeen{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check6:checked ~ .container .drawing-gallery .twentytwo,
+#check6:checked ~ .container .drawing-gallery .twentyone,
+#check6:checked ~ .container .drawing-gallery .twentynineteen,
+#check6:checked ~ .container .drawing-gallery .twentytwenty,
+#check6:checked ~ .container .drawing-gallery .Doodlies{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: 0s;
+}
+#check7:checked ~ .container .drawing-gallery .Doodlies{
+    opacity: 1;
+    transform: scale(1);
+    position: relative;
+}
+#check7:checked ~ .container .drawing-gallery .twentytwo,
+#check7:checked ~ .container .drawing-gallery .twentyone,
+#check7:checked ~ .container .drawing-gallery .twentytwenty,
+#check7:checked ~ .container .drawing-gallery .twentynineteen,
+#check7:checked ~ .container .drawing-gallery .twentyseventeen{
+    opacity: 0;
+    transform: scale(0);
+    position: absolute;
+    transition: 0s;
+}
